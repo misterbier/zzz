@@ -5,4 +5,5 @@ def main():
     fivestar = fourstar//4
     sixstar = fivestar//5
     print("sixstar = " , sixstar)
+    print("HELLO WORLD !")
 main();
